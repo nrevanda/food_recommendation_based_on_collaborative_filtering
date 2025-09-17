@@ -66,17 +66,6 @@ The **Amazon Fine Food Reviews** dataset contains **500k+** product reviews. Wit
 └── README.md
 ```
 
----
-
-
-## 📊 Results (Example)
-
-* The recommender returns **Top‑N** similar items ordered by cosine similarity.
-* Streamlit view includes a styled table (scores with gradient) and a bar chart.
-* Example artifacts (add your visuals): `assets/demo.png`.
-
----
-
 ## ✅ Conclusion
 
 We successfully built a functional **Item‑Based Collaborative Filtering** system on **Amazon Fine Food Reviews**, uncovering patterns in user ratings and recommending items similar to those a user prefers. Using **Cosine Similarity**, the model provides relevant suggestions that can support product discovery and **potentially boost cross/upsell** for e‑commerce.
