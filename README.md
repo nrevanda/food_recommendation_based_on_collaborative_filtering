@@ -45,7 +45,7 @@ The **Amazon Fine Food Reviews** dataset contains **500k+** product reviews. Wit
 | **Text**                   | Full review text                                                    |
 
 ---
-## 🎥 Demo
+## 🎥 Streamlit Interface
 
 <img width="3017" height="1482" alt="image" src="https://github.com/user-attachments/assets/4a5cee61-c459-4bb3-a3db-1aeca4bdf253" />
 
