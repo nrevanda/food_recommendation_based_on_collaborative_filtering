@@ -46,6 +46,8 @@ The **Amazon Fine Food Reviews** dataset contains **500k+** product reviews. Wit
 
 ---
 ## 🎥 Streamlit Interface
+You might like to try the app I built
+[Streamlit](https://foodrecommendationcollaborativefiltering.streamlit.app/)
 
 <img width="3017" height="1482" alt="image" src="https://github.com/user-attachments/assets/4a5cee61-c459-4bb3-a3db-1aeca4bdf253" />
 
