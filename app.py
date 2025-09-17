@@ -7,7 +7,7 @@
 # @st.cache_resource
 # def load_model():
 #     try:
-#         return joblib.load('item_similarity_matrix.joblib')
+#         return joblib.load('models/item_similarity_matrix.joblib')
 #     except FileNotFoundError:
 #         st.error("Model file not found. Make sure 'item_similarity_matrix.joblib' is in the same directory.")
 #         st.stop()
@@ -226,3 +226,4 @@ with st.expander("ℹ️ How it works"):
 st.markdown("---")
 st.markdown("**Dataset**: [Amazon Fine Food Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews/data)")
 st.markdown("**Created by**: **Naufal Revanda** · [GitHub](https://github.com/nrevanda) · [LinkedIn](https://www.linkedin.com/in/naufalrevanda/)")
+
