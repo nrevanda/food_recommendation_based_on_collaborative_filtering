@@ -81,20 +81,6 @@ We successfully built a functional **Item‑Based Collaborative Filtering** syst
 
 ---
 
-
-## 🧾 TL;DR (GitHub Overview)
-
-**One‑liner:** Food recommendation system using Item‑Based Collaborative Filtering on Amazon Fine Food Reviews — interactive Streamlit app for Top‑N similar products.
-
-**Key points:**
-
-* Learns from user ratings to compute item–item similarity (Cosine)
-* Dropdown select → Top‑N recommendations (styled table + chart)
-* Precomputed matrix for fast inference (`.joblib`)
-* Clear limitations & future work (cold start, MF/SVD, hybrid with text)
-
----
-
 ## 📬 Contact
 
 **Naufal Fajar Revanda** · [LinkedIn](https://www.linkedin.com/in/naufalrevanda/) · [GitHub](https://github.com/nrevanda)
